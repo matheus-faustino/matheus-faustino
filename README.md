@@ -12,7 +12,7 @@ Olá! Sou um desenvolvedor backend com 5 anos de experiência em desenvolvimento
 ## Contato
 
 - **Email:** [matheus.melo.faus@gmail.com](mailto:matheus.melo.faus@gmail.com)
-- **LinkedIn:** [Matheus Faustino](https://www.linkedin.com/in/matheus-faustino)
+- **LinkedIn:** [Matheus Faustino](https://www.linkedin.com/in/matheus-de-melo-faustino)
 
 ---
 
