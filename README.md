@@ -1,7 +1,19 @@
-- 👋 Hi, I’m @matheus-faustino
-- 👀 I’m interested in web and game development
+# Bem-vindo ao meu perfil do GitHub!
 
-<!---
-matheus-faustino/matheus-faustino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá! Sou um desenvolvedor backend com 5 anos de experiência em desenvolvimento com PHP. Minhas ferramentas favoritas são os frameworks Laravel e Symfony, que utilizo para criar aplicações robustas e escaláveis.
+
+## Habilidades
+
+- **Linguagens:** PHP
+- **Frameworks:** Laravel, Symfony
+- **Outras Tecnologias:** MySQL, Redis, Docker, Git
+- **Ferramentas:** Composer, PHPUnit
+
+## Contato
+
+- **Email:** [matheus.melo.faus@gmail.com](mailto:matheus.melo.faus@gmail.com)
+- **LinkedIn:** [Matheus Faustino](https://www.linkedin.com/in/matheus-faustino)
+
+---
+
+Obrigado por visitar meu perfil! Estou sempre aberto a novas oportunidades e colaborações!
