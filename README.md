@@ -4,10 +4,11 @@ Olá! Sou um desenvolvedor backend com 5 anos de experiência em desenvolvimento
 
 ## Habilidades
 
-- **Linguagens:** PHP
-- **Frameworks:** Laravel, Symfony
-- **Outras Tecnologias:** MySQL, Redis, Docker, Git
-- **Ferramentas:** Composer, PHPUnit
+- **Linguagens de Programação:** PHP, JavaScript, TypeScript
+- **Frameworks:** Laravel, Symfony, React
+- **Bancos de Dados:** MySQL, MariaDB, MongoDB
+- **Ferramentas:** Git, Docker, PHPUnit
+- **Metodologias:** Agile, Scrum
 
 ## Contato
 
@@ -15,5 +16,3 @@ Olá! Sou um desenvolvedor backend com 5 anos de experiência em desenvolvimento
 - **LinkedIn:** [Matheus de Melo Faustino](https://www.linkedin.com/in/matheus-de-melo-faustino)
 
 ---
-
-Obrigado por visitar meu perfil! Estou sempre aberto a novas oportunidades e colaborações!
