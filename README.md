@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub!
 
-Olá! Sou um desenvolvedor backend com 5 anos de experiência em desenvolvimento com PHP. Minhas ferramentas favoritas são os frameworks Laravel e Symfony, que utilizo para criar aplicações robustas e escaláveis.
+Olá! Sou um desenvolvedor backend com 5 anos de experiência em desenvolvimento com PHP, utilizando os frameworks Laravel e Symfony para criar aplicações robustas.
 
 ## Habilidades
 
