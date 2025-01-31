@@ -2,8 +2,8 @@
 
 ### 🛠️ Habilidades Técnicas
 
-- **Linguagens de Programação:** PHP, C#, JavaScript  
-- **Frameworks:** Laravel, Symfony, ASP.NET
+- **Linguagens de Programação:** C#, PHP, JavaScript  
+- **Frameworks:** ASP.NET, Laravel, Symfony
 - **Bancos de Dados:** MySQL, PostgreSQL
 - **Ferramentas:** Git, Git Flow, Docker
 - **Metodologias:** Agile, Scrum
